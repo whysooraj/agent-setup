@@ -1,0 +1,1 @@
+{"name":"wasm_gallery_active","description":"Return the ID of the currently active WASM gallery template. Use when native Bash is wrong because the active-template cursor is tracked inside the WASM runtime state, not in a file you can read directly.","parameters":{"properties":{},"type":"object"}}

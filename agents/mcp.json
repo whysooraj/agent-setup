@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "october-bus-static": {
+      "type": "stdio",
+      "command": "/home/whysooraj/.config/October/runtime/node-v24.19.0-linux-x64/bin/node",
+      "args": [
+        "/home/whysooraj/.october/bus-process-bridge.mjs"
+      ],
+      "env": {}
+    }
+  }
+}

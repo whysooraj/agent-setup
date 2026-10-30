@@ -1,0 +1,1 @@
+{"name":"wasm_gallery_load_rvf","description":"Load a named gallery template as a base64-encoded RVF container. Use when native Read is wrong because RVF containers are packed inside the WASM gallery store and are not accessible as plain filesystem files.","parameters":{"properties":{"id":{"description":"Gallery template ID","type":"string"}},"required":["id"],"type":"object"}}

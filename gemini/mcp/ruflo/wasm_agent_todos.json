@@ -1,0 +1,1 @@
+{"name":"wasm_agent_todos","description":"Get the structured todo list of a WASM agent as JSON. Use when native Task is wrong because the todo state lives inside the sandboxed WASM runtime and is not visible to the host process.","parameters":{"properties":{"agentId":{"description":"WASM agent ID","type":"string"}},"required":["agentId"],"type":"object"}}

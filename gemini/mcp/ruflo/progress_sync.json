@@ -1,0 +1,1 @@
+{"name":"progress_sync","description":"Calculate and persist V3 progress metrics to file Use when native TodoWrite is wrong because you need cross-session goal-completion tracking with witness/audit trail. For in-session checklists, native TodoWrite is simpler.","parameters":{"properties":{},"required":[],"type":"object"}}

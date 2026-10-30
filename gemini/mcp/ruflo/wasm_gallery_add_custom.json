@@ -1,0 +1,1 @@
+{"name":"wasm_gallery_add_custom","description":"Add a custom agent template to the WASM gallery registry. Use when native Write is wrong because custom templates must be registered inside the WASM runtime store, not written as plain files.","parameters":{"properties":{"template":{"description":"Template object to add","type":"object"}},"required":["template"],"type":"object"}}

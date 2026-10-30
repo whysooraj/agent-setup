@@ -1,0 +1,1 @@
+{"name":"wasm_gallery_export","description":"Export all custom WASM gallery templates as a JSON snapshot. Use when native Read/cat is wrong because custom templates live inside the WASM runtime store and are not persisted as individual files on disk.","parameters":{"properties":{},"type":"object"}}

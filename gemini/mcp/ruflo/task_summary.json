@@ -1,0 +1,1 @@
+{"name":"task_summary","description":"Get a summary of all tasks by status Use when native TodoWrite is wrong because you need cross-session task persistence, agent assignment, dependency tracking, or completion analytics in the .swarm/memory.db. For in-session checklists native TodoWrite is simpler and faster.","parameters":{"properties":{},"type":"object"}}

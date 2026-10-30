@@ -1,0 +1,1 @@
+{"name":"get_usage","description":"Show this account's plan, what it has used and what remains (content operations, premium guides, new template families, download bytes, projects, tokens), when limits reset, and the ids of its project profiles. Free to call.","parameters":{"additionalProperties":false,"properties":{},"required":[],"type":"object"}}

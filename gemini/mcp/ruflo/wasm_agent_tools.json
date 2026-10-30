@@ -1,0 +1,1 @@
+{"name":"wasm_agent_tools","description":"List the tools registered on a WASM agent sandbox. Use when native Task is wrong because the tool registry lives inside the WASM runtime and cannot be inspected from the host via standard reflection.","parameters":{"properties":{"agentId":{"description":"WASM agent ID","type":"string"}},"required":["agentId"],"type":"object"}}

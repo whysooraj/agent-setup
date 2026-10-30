@@ -1,0 +1,1 @@
+{"name":"aidefence_stats","description":"Get AIDefence detection and learning statistics. Use when nothing native exists — Claude Code does not have a PII / prompt-injection / adversarial-text scanner. Pair with any tool that ingests untrusted input (browser scrape, federation envelope, memory_import_claude).","parameters":{"properties":{},"type":"object"}}

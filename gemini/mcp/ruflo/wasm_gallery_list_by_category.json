@@ -1,0 +1,1 @@
+{"name":"wasm_gallery_list_by_category","description":"List WASM gallery templates filtered to a specific category. Use when native Glob is wrong because gallery templates are stored in the WASM runtime registry, not as individual filesystem files.","parameters":{"properties":{"category":{"description":"Category name","type":"string"}},"required":["category"],"type":"object"}}

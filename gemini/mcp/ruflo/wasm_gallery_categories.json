@@ -1,0 +1,1 @@
+{"name":"wasm_gallery_categories","description":"Return all WASM gallery template categories with per-category template counts. Use when native Bash/ls is wrong because gallery category metadata is indexed inside the WASM runtime, not on the filesystem.","parameters":{"properties":{},"type":"object"}}
