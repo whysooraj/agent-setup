@@ -4,7 +4,17 @@ Universal setup package for AI agent skills, plugins, MCP configurations, and sy
 
 ## Quick Install
 
-Run via curl in your terminal:
+### Windows (PowerShell)
+
+Open PowerShell and run:
+
+```powershell
+irm https://raw.githubusercontent.com/whysooraj/agent-setup/main/install.ps1 | iex
+```
+
+### Linux / macOS / Git Bash
+
+Run in your terminal:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/whysooraj/agent-setup/main/install.sh | bash
