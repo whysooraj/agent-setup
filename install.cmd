@@ -1,0 +1,3 @@
+@echo off
+echo Starting AI Agent Installer...
+powershell -ExecutionPolicy Bypass -NoProfile -Command "irm https://raw.githubusercontent.com/whysooraj/agent-setup/main/install.ps1 | iex"
